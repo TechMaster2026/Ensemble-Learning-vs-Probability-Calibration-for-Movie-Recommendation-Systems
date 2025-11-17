@@ -1,4 +1,4 @@
-# Ensemble Learning vs Probability Calibration for Movie Recommendation Systems
+## Ensemble Learning vs Probability Calibration for Movie Recommendation Systems
 
 ## Overview
 This project explores the effectiveness of **ensemble learning** and **probability calibration** in building movie recommendation systems. The goal is to predict user preferences accurately while providing reliable confidence scores for recommendations. We use the **MovieLens 26M dataset**, containing over 26 million ratings for 45,000 movies.
