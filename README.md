@@ -58,3 +58,8 @@ The dataset is sourced from [Kaggle: The Movies Dataset](https://www.kaggle.com/
 - **Accuracy** – overall correctness.  
 - **Precision** – proportion of correctly predicted positive recommendations.  
 - **F1-Score** – balance of precision and recall.  
+
+---
+
+## Results
+The calibrated stacked ensemble outperforms base models and uncalibrated stacking in terms of both accuracy and reliability of probability estimates.  
