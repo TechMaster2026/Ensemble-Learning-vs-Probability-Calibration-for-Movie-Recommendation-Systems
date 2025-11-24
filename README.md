@@ -22,7 +22,7 @@ The dataset is sourced from [Kaggle: The Movies Dataset](https://www.kaggle.com/
   - 4.1 – 5 → Strongly Recommended  
 - Selected numeric features (`userId`, `movieId`, `rating`) and applied **StandardScaler**.  
 - Applied **Incremental PCA** for dimensionality reduction.  
-- Sampled 0.5% of data for faster computation while retaining essential patterns.
+- Sampled **0.5%** of data for faster computation while retaining essential patterns.
 
 ---
 
