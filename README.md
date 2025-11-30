@@ -65,7 +65,7 @@ The dataset is sourced from [Kaggle: The Movies Dataset](https://www.kaggle.com/
    - Build a **calibrated stacked ensemble** using calibrated probabilities.  
 
 5. **Model Evaluation**  
-   - Metrics: **Accuracy**, **Precision**, **F1-Score**.  
+   - Metrics: **Accuracy**, **Precision**, **Recall**, **F1-Score**.  
    - Probability reliability: **Log Loss** and **Calibration Curves**.  
 
 6. **Comparison and Analysis**  
@@ -76,7 +76,8 @@ The dataset is sourced from [Kaggle: The Movies Dataset](https://www.kaggle.com/
 
 ## Evaluation Metrics
 - **Accuracy** – overall correctness of predictions.  
-- **Precision** – proportion of correctly predicted positive recommendations.  
+- **Precision** – proportion of correctly predicted positive recommendations.
+- **Recall** – proportion of actual positive recommendations correctly identified.
 - **F1-Score** – balance of precision and recall.  
 - **Probability Calibration** – reliability of predicted probabilities using calibration curves and log loss.
 
